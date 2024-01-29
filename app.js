@@ -1,5 +1,3 @@
-// Assuming the class names are correct in your HTML
-
 let Navbar = document.querySelector(".navbar");
 let FaBars = document.querySelector(".fa-bars");
 
